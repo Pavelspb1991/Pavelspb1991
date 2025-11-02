@@ -15,6 +15,65 @@ QA-инженер с опытом тестирования сложных сис
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<!-- Postman -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- Figma -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- PostgreSQL -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- JSON -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" data-canonical-src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- Swagger -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" data-canonical-src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&amp;logo=Swagger&amp;logoColor=black" style="max-width: 100%;">
+</a>
+
+<!-- Apidoc -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Apidoc-8DD6F9?style=for-the-badge&logo=apidoc&logoColor=black">
+  <img src="https://img.shields.io/badge/Apidoc-8DD6F9?style=for-the-badge&logo=apidoc&logoColor=black" alt="Apidoc" data-canonical-src="https://img.shields.io/badge/Apidoc-8DD6F9?style=for-the-badge&amp;logo=apidoc&amp;logoColor=black" style="max-width: 100%;">
+</a>
+
+<!-- Terminal -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" data-canonical-src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- Cygwin -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Cygwin-003545?style=for-the-badge&logo=cygwin&logoColor=white">
+  <img src="https://img.shields.io/badge/Cygwin-003545?style=for-the-badge&logo=cygwin&logoColor=white" alt="Cygwin" data-canonical-src="https://img.shields.io/badge/Cygwin-003545?style=for-the-badge&amp;logo=cygwin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- Charles -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Charles-8CC84B?style=for-the-badge&logo=charles&logoColor=white">
+  <img src="https://img.shields.io/badge/Charles-8CC84B?style=for-the-badge&logo=charles&logoColor=white" alt="Charles" data-canonical-src="https://img.shields.io/badge/Charles-8CC84B?style=for-the-badge&amp;logo=charles&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- YouTrack -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white" alt="YouTrack" data-canonical-src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&amp;logo=youtrack&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- DevTools -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DevTools" data-canonical-src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+<!-- Android Studio -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" data-canonical-src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" style="max-width: 100%;">
+</a>
 <p dir="auto"><strong>Контакты:</strong> <br>
 <a href="https://t.me/PavelTushin" rel="nofollow">Telegram</a><br>
 <a href="mailto:sn0oze@mail.ru">Email</a><br></p>
