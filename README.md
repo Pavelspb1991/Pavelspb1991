@@ -59,7 +59,6 @@ QA-инженер с опытом тестирования сложных сис
 <a target="_blank" rel="noopener noreferrer nofollow" hre="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" data-canonical-src="https://img.shields.io/badge/Cygwin-003545?style=for-the-badge&amp;logo=cygwin&amp;logoColor=white" style="max-width: 100%;">
 </a>
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
 
 <!-- Charles -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Charles-8CC84B?style=for-the-badge&logo=charles&logoColor=white">
