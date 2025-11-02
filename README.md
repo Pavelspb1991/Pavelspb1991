@@ -42,9 +42,6 @@ QA-инженер с опытом тестирования сложных сис
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white">
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" data-canonical-src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white" style="max-width: 100%;">
 </a>
-
-<br> <!-- Разрыв строки -->
-
 <!-- Второй ряд -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Cygwin-003545?style=for-the-badge&logo=cygwin&logoColor=white">
   <img src="https://img.shields.io/badge/Cygwin-003545?style=for-the-badge&logo=cygwin&logoColor=white" alt="Cygwin" data-canonical-src="https://img.shields.io/badge/Cygwin-003545?style=for-the-badge&amp;logo=cygwin&amp;logoColor=white" style="max-width: 100%;">
